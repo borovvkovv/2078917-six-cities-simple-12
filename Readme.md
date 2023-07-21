@@ -8,4 +8,4 @@ React + Redux + Thunk
 
 Карта: Leaflet
 
-Уведомления: React Toastify
+Уведомления: самописные
